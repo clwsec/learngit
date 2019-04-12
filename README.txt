@@ -4,5 +4,5 @@ Git has a mutable index called stage.
 Creating a new branch is quick.
 About collide just like this.
 The using of --no--off 
-dsfssfdsvs
+
 
