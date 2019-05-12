@@ -1,6 +1,4 @@
 
 # Here are some record about learngit
 
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
+此内容为学习git的记录，学习自廖雪峰git教程。
